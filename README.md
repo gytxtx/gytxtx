@@ -2,7 +2,7 @@
 # 你好呀！
 ## 欢迎来到gytxtx(bilibili:KFACBT)的GitHub主页！
 
-### 你可以去我的B站主页看看，说不定有好东西
+## 你可以去我的B站主页看看，说不定有好东西
 [我的B站主页](https://space.bilibili.com)/514279030/
 ### 友情链接：
 [Y雅米M的B站主页](https://space.bilibili.com/284572130/)
