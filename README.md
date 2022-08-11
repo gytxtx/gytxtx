@@ -10,6 +10,10 @@
 ## 这里存放了一些东西，你可以去看看！
 ### 比如我的个人主页(网站)，吃掉小雅米(粉丝向网页游戏)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gytxtx&layout=compact&theme=buefy)
+
+![gytxtx's github stats](https://github-readme-stats.vercel.app/api?username=gytxtx&count_private=true&show_icons=true&count_private=true&theme=buefy)
+
 <!--
 **gytxtx/gytxtx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
