@@ -1,5 +1,6 @@
 ### Hi there 👋
-##
+
+## 卡片
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gytxtx&layout=compact&theme=buefy)
 
@@ -16,12 +17,10 @@
 
 ## 你可以去我的B站主页看看，说不定有好东西
 [我的B站主页](https://space.bilibili.com/514279030/)
-### 友情链接：
-[Y雅米M的B站主页](https://space.bilibili.com/284572130/)
 
-## 这里存放了一些东西，你可以去看看！
-### 比如我的个人主页(网站)，吃掉小雅米(粉丝向网页游戏)
-
+## 内容
+### 这里存放了一些东西，你可以去看看！
+### 比如我的个人主页(网站)、一些应用程序等等
 
 <!--
 **gytxtx/gytxtx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
