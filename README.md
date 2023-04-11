@@ -6,9 +6,9 @@
 ![gytxtx's github stats](https://github-readme-stats.vercel.app/api?username=gytxtx&count_private=true&show_icons=true&count_private=true&theme=buefy)
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gytxtx&layout=compact&theme=buefy)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gytxtx&layout=compact)
 
-![gytxtx's github stats](https://github-readme-stats.vercel.app/api?username=gytxtx&count_private=true&show_icons=true&count_private=true&theme=buefy)
+![gytxtx's github stats](https://github-readme-stats.vercel.app/api?username=gytxtx&count_private=true&show_icons=true&count_private=true)
 
 ##
 ## 你好呀！
