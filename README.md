@@ -7,10 +7,14 @@
 ![gytxtx's github stats](https://github-readme-stats.vercel.app/api?username=gytxtx&count_private=true&show_icons=true&count_private=true&theme=buefy)
 -->
 
+<p align="center">
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gytxtx&layout=compact)
 
 ![gytxtx's github stats](https://github-readme-stats.vercel.app/api?username=gytxtx&count_private=true&show_icons=true&count_private=true)
 
+</p>
+  
 ##
 ## 你好呀！
 ### 欢迎来到gytxtx(bilibili:KFACBT)的GitHub主页！
