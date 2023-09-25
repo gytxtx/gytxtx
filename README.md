@@ -34,8 +34,8 @@
 [我的B站主页](https://space.bilibili.com/514279030/)
 
 ## 内容
-### 这里存放了一些东西，你可以去看看！
-### 比如我的个人主页(网站)、一些应用程序等等
+*  这里存放了一些东西，你可以去看看！
+*  比如我的个人主页(网站)、一些应用程序等等
 
 <!--
 **gytxtx/gytxtx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
