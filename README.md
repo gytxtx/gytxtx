@@ -11,17 +11,15 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gytxtx&layout=compact)
 
 ![gytxtx's github stats](https://github-readme-stats.vercel.app/api?username=gytxtx&count_private=true&show_icons=true&count_private=true)
-  
-##
-## 你好呀！
-### 欢迎来到gytxtx(bilibili:KFACBT)的GitHub主页！
+
+## 你好呀，欢迎来到gytxtx(bilibili:KFACBT)的GitHub主页！
 
 ## 你可以去我的B站主页看看，说不定有好东西
 [我的B站主页](https://space.bilibili.com/514279030/)
 
 ## 内容
-*  这里存放了一些东西，你可以去看看！
-*  比如我的个人主页(网站)、一些应用程序等等
+ - 这里存放了一些东西，你可以去看看！
+ - 比如我的个人主页(网站)、一些应用程序等等
 
 <!--
 **gytxtx/gytxtx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
