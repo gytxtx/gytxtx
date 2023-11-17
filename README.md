@@ -7,15 +7,13 @@
 ![gytxtx's github stats](https://github-readme-stats.vercel.app/api?username=gytxtx&count_private=true&show_icons=true&count_private=true&theme=buefy)
 -->
 
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gytxtx&layout=compact)
 
 ![gytxtx's github stats](https://github-readme-stats.vercel.app/api?username=gytxtx&count_private=true&show_icons=true&count_private=true)
 
-## 你好呀，欢迎来到gytxtx(bilibili:KFACBT)的GitHub主页！
+## 你好呀，欢迎来到 **gytxtx** 的 `GitHub` 主页！
 
-## 你可以去我的B站主页看看，说不定有好东西
-[我的B站主页](https://space.bilibili.com/514279030/)
+你可以去我的 [B站主页](https://space.bilibili.com/514279030) 看看，说不定有好东西
 
 ## 内容
  - 这里存放了一些东西，你可以去看看！
