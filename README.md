@@ -19,7 +19,11 @@
  - 这里存放了一些东西，你可以去看看！
  - 比如我的个人主页(网站)、一些应用程序等等
 
-相关链接 [`Markdown 突出显示`](https://github.com/orgs/community/discussions/16925) 和 [`基本撰写和格式语法`](https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+## 相关链接
+
+[`Markdown 突出显示`](https://github.com/orgs/community/discussions/16925)
+
+[`基本撰写和格式语法`](https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 <!--
 **gytxtx/gytxtx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
