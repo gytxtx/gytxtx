@@ -19,7 +19,7 @@
  - 这里存放了一些东西，你可以去看看！
  - 比如我的个人主页(网站)、一些应用程序等等
 
-### 一些内容列表
+### 一些项目列表
  - [KFACBT's Toolkit](https://github.com/gytxtx/KFACBT_Toolkit) - KFACBT 的工具箱 *`此存储库因为一些原因被隐藏了，可能以后会开放（？）`*
  - *更多内容，请跳转到 [gytxtx's Repositories](https://github.com/gytxtx?tab=repositories) 进行查看。*
 
