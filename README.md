@@ -21,13 +21,16 @@
 
 ### 一些项目列表
  - [KFACBT's Toolkit](https://github.com/gytxtx/KFACBT_Toolkit) - KFACBT 的工具箱 *`此存储库因为一些原因被隐藏了，可能以后会开放（？）`*
- - *更多内容，请跳转到 [gytxtx's Repositories](https://github.com/gytxtx?tab=repositories) 进行查看。*
+
+> [!TIP]
+>
+> 更多内容，请跳转到 [gytxtx's Repositories](https://github.com/gytxtx?tab=repositories) 进行查看。
 
 ## 赞助
 
 如果要赞助，请跳转到 [`爱发电`](https://afdian.net/a/gytxtx) 进行赞助！
 
->  [!TIP]
+> [!TIP]
 > 
 > 此赞助方式仅限 `微信` 与`支付宝` 这两种付款方式。
 
