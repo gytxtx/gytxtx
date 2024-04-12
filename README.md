@@ -25,7 +25,7 @@
 
 ## 赞助
 
-如果要赞助，请跳转到 [`爱发电`](https://github.com/gytxtx) 进行赞助！
+如果要赞助，请跳转到 [`爱发电`](https://afdian.net/a/gytxtx) 进行赞助！
 
 >  [!TIP]
 > 
