@@ -60,6 +60,10 @@
 
 [`基本撰写和格式语法`](https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
 <!--
 **gytxtx/gytxtx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
