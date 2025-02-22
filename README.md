@@ -30,6 +30,8 @@
 
 &nbsp;&nbsp;我的个人网站： [`https://gytxtx.github.io/`](https://gytxtx.github.io/)。
 
+<br />
+
 </td></tr>
 <tr><td>
 
@@ -44,9 +46,13 @@
     <!-- locale=cn -->
     <!-- 圆角度 -->
     <!-- border_radius -->
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gytxtx&layout=compact&locale=cn&border_radius=0"
+    <!-- Light -->
+    <!-- text_color=1f2328&bg_color=00000000 -->
+    <!-- Dark -->
+    <!-- text_color=f0f6fc&bg_color=00000000 -->
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gytxtx&layout=compact&text_color=f0f6fc&bg_color=00000000&locale=cn&border_radius=0"
         media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gytxtx&layout=compact&locale=cn&border_radius=0"
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gytxtx&layout=compact&text_color=1f2328&bg_color=00000000&locale=cn&border_radius=0"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gytxtx&layout=compact&locale=cn&border_radius=0" />
 </picture>
@@ -54,6 +60,8 @@
 - [易语言](https://eyuyan.com/)
 - 前端 - `HTML + CSS + JS`
 - C# - (在学，我不想再用易语言了)
+
+<br />
 
 </td></tr>
 <tr><td>
@@ -66,8 +74,9 @@
 - [蓝屏工具箱](https://tools.cnstlapy.cn/)：在做 5.0 版本。
 - [Class Widgets](https://github.com/Class-Widgets/Class-Widgets/)：偶尔做一些非关键性的改动，仅此而已。
 
-</td></tr>
+<br />
 
+</td></tr>
 <tr><td>
 
 ### &nbsp;相关链接
@@ -83,8 +92,9 @@
 | E-Mail | [`gytxtx@outlook.com`](mailto:gytxtx@outlook.com) | 不经常看邮箱 |
 | Bilibili | [`UID 1582448018`](https://space.bilibili.com/1582448018/) | 没错，这是我 B 站号... |
 
-</td></tr>
+<br />
 
+</td></tr>
 </table>
 
 ---
