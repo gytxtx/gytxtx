@@ -30,7 +30,6 @@
 
 &nbsp;&nbsp;我的个人网站： [`https://gytxtx.github.io/`](https://gytxtx.github.io/)。
 
-<br />
 
 </td></tr>
 <tr><td>
@@ -61,7 +60,6 @@
 - 前端 - `HTML + CSS + JS`
 - C# - (在学，我不想再用易语言了)
 
-<br />
 
 </td></tr>
 <tr><td>
@@ -74,7 +72,6 @@
 - [蓝屏工具箱](https://tools.cnstlapy.cn/)：在做 5.0 版本。
 - [Class Widgets](https://github.com/Class-Widgets/Class-Widgets/)：偶尔做一些非关键性的改动，仅此而已。
 
-<br />
 
 </td></tr>
 <tr><td>
@@ -92,7 +89,6 @@
 | E-Mail | [`gytxtx@outlook.com`](mailto:gytxtx@outlook.com) | 不经常看邮箱 |
 | Bilibili | [`UID 1582448018`](https://space.bilibili.com/1582448018/) | 没错，这是我 B 站号... |
 
-<br />
 
 </td></tr>
 </table>
