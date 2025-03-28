@@ -85,7 +85,7 @@
 | 名称 | 链接 | 备注 |
 | ---- | ---- | ---- |
 | Website | <https://gytxtx.github.io/> | 静态网站 |
-| 博客 | <https://gytxtx.github.io/Blog> | 静态托管 |
+| 博客 | <https://gytxtx.github.io/Blog/> | 静态托管 |
 | QQ | ~~`1018307946`~~ | 废弃的号 |
 | E-Mail | [`gytxtx@outlook.com`](mailto:gytxtx@outlook.com) | 不经常看邮箱 |
 | Bilibili | [`UID 1582448018`](https://space.bilibili.com/1582448018/) | 没错，这是我 B 站号... |
@@ -98,7 +98,9 @@
 ## 其他
 
 - 此 README 模板的来源：<https://github.com/FurryR/FurryR/>
+
   版权信息：**Copyright (c) 2024 FurryR. All rights reserved.**
 
 - 使用的图标来源：[`google/material-design-icons`](https://github.com/google/material-design-icons/)
+
   版权信息：**根据 Apache License 2.0 获得许可，原作者保留所有权利。**
