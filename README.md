@@ -84,11 +84,11 @@
 
 | 名称 | 链接 | 备注 |
 | ---- | ---- | ---- |
-| Website | [`https://gytxtx.github.io/`](https://gytxtx.github.io/) | 静态网站 |
+| Website | <https://gytxtx.github.io/> | 静态网站 |
+| 博客 | <https://gytxtx.github.io/Blog> | 静态托管 |
 | QQ | ~~`1018307946`~~ | 废弃的号 |
 | E-Mail | [`gytxtx@outlook.com`](mailto:gytxtx@outlook.com) | 不经常看邮箱 |
 | Bilibili | [`UID 1582448018`](https://space.bilibili.com/1582448018/) | 没错，这是我 B 站号... |
-
 
 </td></tr>
 </table>
