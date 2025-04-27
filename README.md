@@ -28,6 +28,8 @@
 
 &nbsp;&nbsp;你好，我是 KFACBT(你也可以叫我 gytxtx)。一个普普通通的人。个人开发者。
 
+&nbsp;&nbsp;是个什么都做不好的废物。
+
 &nbsp;&nbsp;我的个人网站： <https://gytxtx.github.io/>。
 
 <br />
