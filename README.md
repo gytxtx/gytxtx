@@ -19,7 +19,7 @@
 <table>
 <tr><td>
 
-### &nbsp;自我介绍
+### &nbsp;&nbsp;自我介绍
 
 <img align="right" width="80" src="./assets/info_24dp_5F6368_FILL0_wght400_GRAD0_opsz24.svg" />
 
@@ -30,52 +30,42 @@
 
 &nbsp;&nbsp;是个什么都做不好的废物。
 
-&nbsp;&nbsp;我的个人网站： <https://gytxtx.github.io/>。
-
 <br />
-
 
 </td></tr>
 <tr><td>
 
-### &nbsp;编程技能
+### &nbsp;&nbsp;统计信息
+
+<img align="right" width="80" src="./assets/insert_chart_24dp_5F6368_FILL0_wght400_GRAD0_opsz24.svg" />
+
+![gytxtx's GitHub stats](https://github-readme-stats.vercel.app/api?username=gytxtx&show_icons=true&layout=compact&locale=cn&border_radius=0&theme=transparent)
+
+</td></tr>
+<tr><td>
+
+### &nbsp;&nbsp;编程技能
 
 <img align="right" width="80" src="./assets/code_24dp_5F6368_FILL0_wght400_GRAD0_opsz24.svg" />
 
-<picture>
-    <!-- 隐藏标题与边框 -->
-    <!-- &hide_border=true&hide_title=true -->
-    <!-- 设置语言 -->
-    <!-- locale=cn -->
-    <!-- 圆角度 -->
-    <!-- border_radius -->
-    <!-- Light -->
-    <!-- text_color=1f2328&bg_color=00000000 -->
-    <!-- Dark -->
-    <!-- text_color=f0f6fc&bg_color=00000000 -->
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gytxtx&layout=compact&text_color=f0f6fc&bg_color=00000000&locale=cn&border_radius=0"
-        media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gytxtx&layout=compact&text_color=1f2328&bg_color=00000000&locale=cn&border_radius=0"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gytxtx&layout=compact&locale=cn&border_radius=0" />
-</picture>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gytxtx&layout=compact&locale=cn&border_radius=0&theme=transparent)
 
 </td></tr>
 <tr><td>
 
-### &nbsp;近期项目
+### &nbsp;&nbsp;近期项目
 
 <img align="right" width="80" src="./assets/deployed_code_24dp_5F6368_FILL0_wght400_GRAD0_opsz24.svg" />
 
 - [KFACBT's Toolkit](https://github.com/gytxtx/KFACBT_Toolkit/)：不好评价。
 - [蓝屏工具箱](https://tools.cnstlapy.cn/)：在做 5.0 版本。
 
+<br />
 
 </td></tr>
 <tr><td>
 
-### &nbsp;相关链接
+### &nbsp;&nbsp;相关链接
 
 <img align="right" width="80" src="./assets/alternate_email_24dp_5F6368_FILL0_wght400_GRAD0_opsz24.svg" />
 
@@ -96,7 +86,7 @@
 
 ## 其他
 
-- 此 README 模板的来源：<https://github.com/FurryR/FurryR/>
+- 此 README 模板的来源：[`FurryR/FurryR`](https://github.com/FurryR/FurryR/)
 
   版权信息：**Copyright (c) 2024 FurryR. All rights reserved.**
 
