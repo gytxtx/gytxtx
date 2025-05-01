@@ -30,6 +30,9 @@
 
 &nbsp;&nbsp;是个什么都做不好的废物。
 
+<!-- 需要有一段长文本在这里凑数，以保证良好的显示效果 -->
+&nbsp;&nbsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+
 <br />
 
 </td></tr>
@@ -78,6 +81,7 @@
 | E-Mail | [`gytxtx@outlook.com`](mailto:gytxtx@outlook.com) | 不经常看邮箱 |
 | Bilibili | [`UID 1582448018`](https://space.bilibili.com/1582448018/) | 没错，这是我 B 站号... |
 
+<br />
 
 </td></tr>
 </table>
@@ -86,10 +90,10 @@
 
 ## 其他
 
-- 此 README 模板的来源：[`FurryR/FurryR`](https://github.com/FurryR/FurryR/)
+- 此 README 模板的来源：<https://github.com/FurryR/FurryR/>
 
   版权信息：**Copyright (c) 2024 FurryR. All rights reserved.**
 
-- 使用的图标来源：[`google/material-design-icons`](https://github.com/google/material-design-icons/)
+- 使用的图标来源：<https://github.com/google/material-design-icons/>
 
   版权信息：**根据 Apache License 2.0 获得许可，原作者保留所有权利。**
