@@ -6,11 +6,7 @@
 
 # KFACBT
 
-<div align="center">
-
 [网站](https://gytxtx.github.io/)&nbsp;|&nbsp;[博客](https://gytxtx.github.io/Blog/)&nbsp;|&nbsp;[联系](#相关链接)
-
-</div>
 
 </div>
 
@@ -113,6 +109,11 @@
 
 ---
 
+### 其他信息
+
+* **GPG Key fingerprint:** `7A55C1CA4AD06CC7DAF706A651DB449B31E8F916`
+
+---
 <div align="right">
 
 [模板来源](https://github.com/FurryR/FurryR/)&nbsp;|&nbsp;[图标来源](https://github.com/google/material-design-icons/)
