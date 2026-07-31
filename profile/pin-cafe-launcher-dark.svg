@@ -112,19 +112,6 @@
         >
           
     
-    <g data-testid="badge" class="badge" transform="translate(320, -18)">
-      <rect stroke="#C3D1D9" stroke-width="1" width="70" height="20" x="-12" y="-14" ry="10" rx="10"></rect>
-      <text
-        x="23" y="-5"
-        alignment-baseline="central"
-        dominant-baseline="central"
-        text-anchor="middle"
-        fill="#C3D1D9"
-      >
-        Archived
-      </text>
-    </g>
-  
 
     <text class="description" x="25" y="-5"> 
       <tspan dy="1.2em" x="25">[&#21457;&#24067;&#20179;&#24211;] &#20351;&#29992; .NET + Avalonia &#24320;&#21457;&#30340; Blue Archive &#26085;&#26381;&#26700;</tspan><tspan dy="1.2em" x="25">&#38754;&#31471;&#21551;&#21160;&#22120;，&#24182;&#28155;&#21152;&#20102;&#23454;&#29992;&#21151;&#33021;&#12290;</tspan>
