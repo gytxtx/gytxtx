@@ -1,0 +1,177 @@
+name: Update README assets
+
+on:
+  schedule:
+    - cron: "20 19 * * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/readme-assets.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme-assets:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&theme=default_repocard&hide_border=true&locale=cn
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate stats card for dark mode
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&locale=cn
+          path: profile/stats-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&theme=default_repocard&hide_border=true&locale=cn
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card for dark mode
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&theme=github_dark&hide_border=true&locale=cn
+          path: profile/top-langs-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate streak stats
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=${{ github.repository_owner }}&theme=default&hide_border=true&locale=zh_Hans
+          path: profile/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate streak stats for dark mode
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=${{ github.repository_owner }}&theme=github-dark-blue&hide_border=true&locale=zh_Hans
+          path: profile/streak-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate OpenJBD card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=gytxtx&repo=OpenJBD&show_owner=true&theme=default_repocard&hide_border=true
+          path: profile/pin-openjbd.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate OpenJBD card for dark mode
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=gytxtx&repo=OpenJBD&show_owner=true&theme=github_dark&hide_border=true
+          path: profile/pin-openjbd-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate kagami-desktop card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=gytxtx&repo=kagami-desktop&show_owner=true&theme=default_repocard&hide_border=true
+          path: profile/pin-kagami-desktop.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate kagami-desktop card for dark mode
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=gytxtx&repo=kagami-desktop&show_owner=true&theme=github_dark&hide_border=true
+          path: profile/pin-kagami-desktop-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate frontend-new card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=bluearchive-cafe&repo=frontend-new&show_owner=true&theme=default_repocard&hide_border=true
+          path: profile/pin-frontend-new.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate frontend-new card for dark mode
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=bluearchive-cafe&repo=frontend-new&show_owner=true&theme=github_dark&hide_border=true
+          path: profile/pin-frontend-new-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate dashboard card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=bluearchive-cafe&repo=dashboard&show_owner=true&theme=default_repocard&hide_border=true
+          path: profile/pin-dashboard.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate dashboard card for dark mode
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=bluearchive-cafe&repo=dashboard&show_owner=true&theme=github_dark&hide_border=true
+          path: profile/pin-dashboard-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Cafe Launcher card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=bluearchive-cafe&repo=Cafe.Launcher.Avalonia_Release&show_owner=true&theme=default_repocard&hide_border=true
+          path: profile/pin-cafe-launcher.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Cafe Launcher card for dark mode
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=bluearchive-cafe&repo=Cafe.Launcher.Avalonia_Release&show_owner=true&theme=github_dark&hide_border=true
+          path: profile/pin-cafe-launcher-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            profile/github-contribution-grid-snake.svg
+            profile/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Publish generated assets to readme-assets branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          assets_dir="$(mktemp -d)"
+          cp -r profile "$assets_dir/profile"
+
+          git fetch origin readme-assets || true
+          if git show-ref --verify --quiet refs/remotes/origin/readme-assets; then
+            git switch --force-create readme-assets origin/readme-assets
+          else
+            git switch --orphan readme-assets
+          fi
+
+          git rm -rf . >/dev/null 2>&1 || true
+          cp -r "$assets_dir/profile" ./profile
+          touch .nojekyll
+
+          git add profile/*.svg .nojekyll
+          git commit -m "docs: update README generated assets" || exit 0
+          git push origin readme-assets
