@@ -160,6 +160,7 @@ jobs:
 
           assets_dir="$(mktemp -d)"
           cp -r profile "$assets_dir/profile"
+          rm -rf profile
 
           git fetch origin readme-assets || true
           if git show-ref --verify --quiet refs/remotes/origin/readme-assets; then
