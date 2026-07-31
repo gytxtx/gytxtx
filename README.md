@@ -56,37 +56,47 @@
 <div align="center">
 
 <p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gytxtx/gytxtx/readme-assets/profile/pin-openjbd-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gytxtx/gytxtx/readme-assets/profile/pin-openjbd.svg" />
-    <img width="360" src="https://raw.githubusercontent.com/gytxtx/gytxtx/readme-assets/profile/pin-openjbd-dark.svg" alt="OpenJBD" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gytxtx/gytxtx/readme-assets/profile/pin-kagami-desktop-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gytxtx/gytxtx/readme-assets/profile/pin-kagami-desktop.svg" />
-    <img width="360" src="https://raw.githubusercontent.com/gytxtx/gytxtx/readme-assets/profile/pin-kagami-desktop-dark.svg" alt="kagami-desktop" />
-  </picture>
+  <a href="https://github.com/gytxtx/OpenJBD">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gytxtx/gytxtx/readme-assets/profile/pin-openjbd-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gytxtx/gytxtx/readme-assets/profile/pin-openjbd.svg" />
+      <img width="360" src="https://raw.githubusercontent.com/gytxtx/gytxtx/readme-assets/profile/pin-openjbd-dark.svg" alt="OpenJBD" />
+    </picture>
+  </a>
+  <a href="https://github.com/gytxtx/kagami-desktop">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gytxtx/gytxtx/readme-assets/profile/pin-kagami-desktop-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gytxtx/gytxtx/readme-assets/profile/pin-kagami-desktop.svg" />
+      <img width="360" src="https://raw.githubusercontent.com/gytxtx/gytxtx/readme-assets/profile/pin-kagami-desktop-dark.svg" alt="kagami-desktop" />
+    </picture>
+  </a>
 </p>
 
 <p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gytxtx/gytxtx/readme-assets/profile/pin-frontend-new-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gytxtx/gytxtx/readme-assets/profile/pin-frontend-new.svg" />
-    <img width="360" src="https://raw.githubusercontent.com/gytxtx/gytxtx/readme-assets/profile/pin-frontend-new-dark.svg" alt="frontend-new" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gytxtx/gytxtx/readme-assets/profile/pin-dashboard-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gytxtx/gytxtx/readme-assets/profile/pin-dashboard.svg" />
-    <img width="360" src="https://raw.githubusercontent.com/gytxtx/gytxtx/readme-assets/profile/pin-dashboard-dark.svg" alt="dashboard" />
-  </picture>
+  <a href="https://github.com/bluearchive-cafe/frontend-new">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gytxtx/gytxtx/readme-assets/profile/pin-frontend-new-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gytxtx/gytxtx/readme-assets/profile/pin-frontend-new.svg" />
+      <img width="360" src="https://raw.githubusercontent.com/gytxtx/gytxtx/readme-assets/profile/pin-frontend-new-dark.svg" alt="frontend-new" />
+    </picture>
+  </a>
+  <a href="https://github.com/bluearchive-cafe/dashboard">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gytxtx/gytxtx/readme-assets/profile/pin-dashboard-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gytxtx/gytxtx/readme-assets/profile/pin-dashboard.svg" />
+      <img width="360" src="https://raw.githubusercontent.com/gytxtx/gytxtx/readme-assets/profile/pin-dashboard-dark.svg" alt="dashboard" />
+    </picture>
+  </a>
 </p>
 
 <p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gytxtx/gytxtx/readme-assets/profile/pin-cafe-launcher-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gytxtx/gytxtx/readme-assets/profile/pin-cafe-launcher.svg" />
-    <img width="360" src="https://raw.githubusercontent.com/gytxtx/gytxtx/readme-assets/profile/pin-cafe-launcher-dark.svg" alt="Cafe.Launcher.Avalonia_Release" />
-  </picture>
+  <a href="https://github.com/bluearchive-cafe/Cafe.Launcher.Avalonia_Release">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gytxtx/gytxtx/readme-assets/profile/pin-cafe-launcher-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gytxtx/gytxtx/readme-assets/profile/pin-cafe-launcher.svg" />
+      <img width="360" src="https://raw.githubusercontent.com/gytxtx/gytxtx/readme-assets/profile/pin-cafe-launcher-dark.svg" alt="Cafe.Launcher.Avalonia_Release" />
+    </picture>
+  </a>
 </p>
 
 </div>
