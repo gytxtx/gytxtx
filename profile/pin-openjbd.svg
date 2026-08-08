@@ -120,10 +120,10 @@
     <g transform="translate(30, 45)">
       <g transform="translate(0, 0)">
     <g data-testid="primary-lang">
-      <circle data-testid="lang-color" cx="0" cy="-5" r="6" fill="#b07219" />
-      <text data-testid="lang-name" class="gray" x="15">Java</text>
+      <circle data-testid="lang-color" cx="0" cy="-5" r="6" fill="#A97BFF" />
+      <text data-testid="lang-name" class="gray" x="15">Kotlin</text>
     </g>
-    </g><g transform="translate(47.22000026702881, 0)"><g transform="translate(0, 0)">
+    </g><g transform="translate(55.66000051498413, 0)"><g transform="translate(0, 0)">
       <svg
         class="icon"
         y="-12"
