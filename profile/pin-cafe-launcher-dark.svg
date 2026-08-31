@@ -1,8 +1,8 @@
 
       <svg
         width="400"
-        height="140"
-        viewBox="0 0 400 140"
+        height="150"
+        viewBox="0 0 400 150"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -114,10 +114,10 @@
     
 
     <text class="description" x="25" y="-5"> 
-      <tspan dy="1.2em" x="25">[&#21457;&#24067;&#20179;&#24211;] &#29616;&#20195;&#12289;&#24320;&#28304;&#12289;&#36328;&#24179;&#21488;&#30340; Blue Archive &#31532;&#19977;&#26041;&#26700;&#38754;&#31471;</tspan><tspan dy="1.2em" x="25">&#21551;&#21160;&#22120;&#12290;</tspan>
+      <tspan dy="1.2em" x="25">[&#21457;&#24067;&#20179;&#24211;] &#29616;&#20195;&#12289;&#24320;&#28304;&#12289;&#36328;&#24179;&#21488;&#30340; Blue Archive &#31532;&#19977;&#26041;&#26700;&#38754;&#31471;</tspan><tspan dy="1.2em" x="25">&#21551;&#21160;&#22120;&#12290;&#28304;&#20195;&#30721;&#21442;&#35265;</tspan><tspan dy="1.2em" x="25">https://github.com/bluearchive-cafe/Cafe.Launcher.Avalonia</tspan>
     </text>
 
-    <g transform="translate(30, 65)">
+    <g transform="translate(30, 75)">
       <g transform="translate(0, 0)"><g transform="translate(0, 0)">
       <svg
         class="icon"
@@ -132,7 +132,7 @@
     </g><g transform="translate(20, 0)"><text data-testid="stargazers" class="gray">25</text></g></g>
     </g>
     
-  <svg x="0" y="0"><g transform="translate(-3, 88)">
+  <svg x="0" y="0"><g transform="translate(-3, 98)">
       
     </g></svg>
     
