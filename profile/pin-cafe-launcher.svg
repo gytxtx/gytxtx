@@ -120,6 +120,18 @@
         >
           
     
+    <g data-testid="badge" class="badge" transform="translate(320, -18)">
+      <rect stroke-width="1" width="70" height="20" x="-12" y="-14" ry="10" rx="10"></rect>
+      <text
+        x="23" y="-5"
+        alignment-baseline="central"
+        dominant-baseline="central"
+        text-anchor="middle"
+      >
+        Archived
+      </text>
+    </g>
+  
 
     <text class="description" x="25" y="-5"> 
       <tspan dy="1.2em" x="25">&#29616;&#20195;&#12289;&#24320;&#28304;&#12289;&#36328;&#24179;&#21488;&#30340; Blue Archive &#31532;&#19977;&#26041;&#26700;&#38754;&#31471;&#21551;&#21160;&#22120;&#12290;</tspan>
