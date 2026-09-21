@@ -22,7 +22,7 @@
 - **个人站点** —— 主页与博客都是自建，不依赖第三方平台（MkDocs · GitHub Pages）
 - **Agent 工具链** —— 让 AI Agent 能观察并操作真实环境，而不是停在对话里（C# · Windows API）
 
-写得最勤的是博客：<https://blog.gytxtx.top/>
+空闲之余也会写博客：<https://blog.gytxtx.top/>
 
 ---
 
